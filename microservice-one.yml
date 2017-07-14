@@ -1,0 +1,6 @@
+configuration:  
+  projectName: eurekaclient
+message:
+  greeting: Hello from the configuration!
+name:
+  text: Hello Mateus changed!  
