@@ -36,9 +36,4 @@ environments:
     path:
         wkhtml: /opt/wkhtmltox/bin/wkhtmltopdf
         
-configuration:  
-  projectName: eurekaclient
-message:
-  greeting: Hello from the configuration!
-name:
-  text: Hello Gu Gay!  
+
