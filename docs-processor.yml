@@ -1,3 +1,7 @@
+server:
+  port: 9006
+  
+  
 # Disable spring basic authentication security
 security:
   basic:
